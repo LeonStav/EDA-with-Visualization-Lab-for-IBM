@@ -1,0 +1,1 @@
+Data analysis and visualization of SpaceX launch missions, including launch sites, booster versions, payloads, orbits, and landing outcomes. Includes feature engineering, one-hot encoding of categorical variables, and preparation of datasets for predictive modeling of launch success.
